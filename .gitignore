@@ -1,0 +1,16 @@
+# Compiled objects and executables
+*.o
+reliable
+Testing/ref
+
+# Runtime packet/debug logs
+*.in.log
+*.out.log
+
+# Editor and operating-system files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
